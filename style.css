@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#ins {
+    width: 100%;
+    height: 800px;
+    background: #05f0dc;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: #000;
+    margin: 8px auto;
+}
+img{
+width: 300px;
+height: 300px;
+}
